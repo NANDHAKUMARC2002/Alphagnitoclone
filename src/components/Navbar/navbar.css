@@ -1,0 +1,116 @@
+*{
+margin:0;
+padding: 0;
+box-sizing: border-box;
+width: 100%;
+}
+.navfull{
+    background: #000;
+    position: fixed;
+    height: 70px;
+    z-index: 1;
+    top:0;
+}
+.logo img{
+    width: 150px;
+    height: 45px;
+    margin-left: 80px;
+}
+.nav-link{
+    color: white;
+    margin-top: 8px;
+}
+.about , .service , .testi , .contact{
+    padding: 0px !important;
+    width: auto;
+    margin-left: 40px;
+}
+.lets{
+    border:1px solid white;
+    margin-right:70px;
+    margin-left: 45px;
+    background: #b43772;
+    margin-top:7px;
+    height: 42px;
+}
+.lets a{
+    margin-left: 5px;
+    margin-top: -1px;
+    font-size: 17px;
+}
+@media (min-width:320px)and (max-width:420px){
+    .navfull{
+        background: #000;
+        position: fixed;
+        height: 70px;
+        z-index: 1;
+        top:0;
+        width: 320px !important;
+    }
+    .logo img{
+        width: auto;
+        height: 45px;
+        margin-left: 80px;
+    }
+    .nav-link{
+        color: white;
+        margin-top: 8px;
+    }
+    .about , .service , .testi , .contact{
+        padding: 0px !important;
+        width: auto;
+        /* margin-left: 40px; */
+    }
+    .lets{
+        border:1px solid white;
+        margin-right:70px;
+        margin-left: 45px;
+        background: #b43772;
+        margin-top:7px;
+        height: 42px;
+    }
+    .lets a{
+        margin-left: 5px;
+        margin-top: -1px;
+        font-size: 17px;
+    }
+}
+
+@media (min-width:481px)and (max-width:768px){
+    .navfull{
+        background: #000;
+        position: fixed;
+        height: 70px;
+        z-index: 1;
+        top:0;
+        width: 768px !important;
+    }
+    .logo img{
+        width: auto;
+        height: 45px;
+        margin-left: 25px;
+        margin-top:3px;
+    }
+    .nav-link{
+        color: white;
+        margin-top: 8px;
+    }
+    .about , .service , .testi , .contact{
+        padding: 0px !important;
+        width: auto;
+        /* margin-left: 40px; */
+    }
+    .lets{
+        border:1px solid white;
+        margin-right:70px;
+        margin-left: 45px;
+        background: #b43772;
+        margin-top:7px;
+        height: 42px;
+    }
+    .lets a{
+        margin-left: 5px;
+        margin-top: -1px;
+        font-size: 17px;
+    }
+}

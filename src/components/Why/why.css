@@ -1,0 +1,149 @@
+.whyf{
+    background: #543454;
+    margin-top: 70px;
+    color:white;
+    height: 275px;
+}
+.why h1{
+   width:fit-content;
+   margin:40px 0 0 100px; 
+   font-size: 34px;
+   font-weight: 600;
+
+}
+.why p{
+    width:61rem;
+    margin-left: 100px;
+    text-align:justify;
+    padding-top: 10px;
+}
+.why h3{
+    border:1px solid #b43772;
+    width:61rem;
+    margin-left: 100px;
+}
+.our h1{
+    margin-top: 40px;
+    font-size: 33.5px;
+
+}
+.our p{
+    margin:26px 0 0 0;
+    width: 300px;
+    text-align: justify;
+    padding-top: 17px;
+}
+.our h3{
+    border:1px solid #b43772;
+    width:300px;
+    margin-top: 104px;
+    position: absolute;
+}
+
+
+@media(min-width:320px) and (max-width:420px){
+    .whyf{
+        background: #543454;
+        margin-top: 70px;
+        color:white;
+        height: 33rem;
+        width:100%;
+    }
+    .why h1{
+       width:fit-content;
+       margin:15px 0 0 10px; 
+       font-size: 24px;
+       font-weight: 600;
+    
+    }
+    .why p{
+        width:280px;
+        margin-left: 20px;
+        text-align:justify;
+        padding-top: 10px;
+        font-size: 13px;
+
+    }
+    .why h3{
+        border:1px solid #b43772;
+        width:200px;
+        margin-left: 10px;
+        margin-top: -10px;
+    }
+    .our h1{
+        margin-top: 0px;
+        font-size: 28px;
+        margin-left: 20px;
+    
+    }
+    .our p{
+        margin:26px 0 0 20px;
+        width: 280px;
+        font-size: 13px;
+        text-align: justify;
+        padding-top: 17px;
+    }
+    .our h3{
+        border:1px solid #b43772;
+        width:200px;
+        margin-left:20px;
+        margin-top: 54px;
+        position: absolute;
+    }
+}
+
+
+
+@media(min-width:481px) and (max-width:768px){
+    .whyf{
+        background: #543454;
+        margin-top: 70px;
+        color:white;
+        height: 480px;
+        width:100%;
+    }
+    .why h1{
+       width:fit-content;
+       margin:20px 0 0 70px; 
+       font-size: 28px;
+       font-weight: 600;
+    
+    }
+    .why p{
+        width:0px;
+        margin-left: 70px;
+        text-align:justify;
+        padding-top: 10px;
+        font-size: 16px;
+        width: 650px;
+        line-height: 25px;
+
+    }
+    .why h3{
+        border:1px solid #b43772;
+        width:500px;
+        margin-left: 80px;
+        margin-top: -10px;
+    }
+    .our h1{
+        margin-top: 15px;
+        font-size: 28px;
+        margin-left: 70px;
+        width:400px;
+    
+    }
+    .our p{
+        margin:26px 0 0 70px;
+        width: 680px;
+        font-size: 16px;
+        text-align: justify;
+        padding-top: 17px;
+    }
+    .our h3{
+        border:1px solid #b43772;
+        width:500px;
+        margin-left:80px;
+        margin-top: 64px;
+        position: absolute;
+    }
+}

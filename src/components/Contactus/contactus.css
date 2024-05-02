@@ -1,0 +1,673 @@
+.wholecontactus{
+    mix-blend-mode:multiply;
+}
+
+.headofc h1{
+color:#690247;
+font-weight: 900;
+margin:150px 0 0 0 ;
+text-align: center;
+padding-bottom: 60px;
+}
+.outerbox{
+    background: #f6f4f4;
+    width:75.5rem;
+    height: 800px;
+    margin-left: 170px;
+}
+.innerbox{
+    background:url(../../assets/entiregetintouch.png    ) ;
+    width:390px;
+    height: 655px;
+    position: absolute;
+    margin:70px  0 0 230px;
+    border-radius: 5px;
+    filter: brightness(50%);
+}
+.get{
+    margin-top: -100px;
+}
+.get h1{
+    position: absolute;
+    z-index: 5;
+    margin:-600px 0 0 295px;
+    width:250px;
+    color: #D72590;
+}
+.getp{
+    position: absolute;
+    z-index: 5;
+    margin:-540px 0 0 295px;
+    width:250px;
+    color:white;
+    line-height: normal;
+}
+
+.chat h4{
+    position: absolute;
+    z-index: 5;
+    margin:-427px 0 0 325px;
+    width:250px;
+    font-size: 19px;
+    font-weight: 700;
+    color: white;
+}
+.mail{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    margin:-425px 0 0 -455px;
+    font-size:22px;
+}
+.chat p{
+    position: absolute;
+    z-index: 5;
+    margin:-395px 0 0 295px;
+    width:250px;
+    color: white;
+}
+.chat span{
+    position: absolute;
+    z-index: 5;
+    margin:-372px 0 0 295px;
+    width:250px;
+    color: white;
+}
+.office h4{
+    position: absolute;
+    z-index: 5;
+    margin:-313px 0 0 325px;
+    width:250px;
+    font-size: 19px;
+    font-weight: 700;
+    color: white;
+}
+.locat{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    margin:-311px 0 0 -455px;
+    font-size:19px;
+}
+.office p{
+    position: absolute;
+    z-index: 5;
+    margin:-280px 0 0 295px;
+    width:250px;
+    color: white;
+}
+.office span{
+    position: absolute;
+    z-index: 5;
+    margin:-255px 0 0 295px;
+    width:250px;
+    color: white;
+    line-height: normal;
+}
+.phone h4{
+    position: absolute;
+    z-index: 5;
+    margin:-180px 0 0 325px;
+    width:250px;
+    font-size: 19px;
+    font-weight: 700;
+    color: white;
+}
+.cell{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    margin:-176px 0 0 -455px;
+    font-size:19px;
+}
+.phone p{
+    position: absolute;
+    z-index: 5;
+    margin:-150px 0 0 295px;
+    width:250px;
+    color: white;
+}
+.phone h6{
+    position: absolute;
+    z-index: 5;
+    margin:-122px 0 0 295px;
+    width:150px;
+    color: white;
+    font-weight: normal;
+}
+.ficon{
+    display: flex;
+    width:250px;
+    font-size: 28px;
+    position: absolute;
+    margin: -56px 0 0 280px;
+}
+.twit{
+    color:rgb(122, 168, 255);
+}
+.insta{
+    color: #ff31ad;
+}
+.linked{
+    color:rgb(55, 55, 236);
+}
+.fb{
+    color: rgba(36, 36, 253, 0.776);
+}
+.threads{
+    color:rgba(215, 128, 255, 0.829);
+}
+.leftalpha{
+    margin:65px 0 0 730px;
+    position: absolute;
+    width:600px;
+}
+.leftalpha input{
+    margin-top: 30px;
+    height: 50px;
+    border: none;
+    background: #ffe3ffdd;
+}
+.leftalpha input::placeholder{
+    padding-left: 20px;
+    color: black;
+    
+}
+.leftalpha textarea{
+    margin: 40px  0 0 0;
+    z-index: 2;
+    color: black;
+    outline: none;
+    
+}
+.leftalpha textarea::placeholder{
+    padding:20px 0 0 20px;
+    color:black;
+}
+.leftalpha .sumi{
+    border:1px solid none;
+    text-decoration: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: 700;
+    color:white;
+    background: #8e175fd9;
+ 
+}
+.leftalpha a{
+    width: 110px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width:320px) and (max-width:420px){
+    .wholecontactus{
+        mix-blend-mode:multiply;
+        width: 100%;
+    }
+    
+    .headofc h1{
+    color:#690247;
+    font-weight: 900;
+    margin:20px 0 0 0 ;
+    text-align: center;
+    padding-bottom: 60px;
+    font-size: 26px;
+    }
+    .outerbox{
+        background: #f6f4f4;
+        /* width:75.5rem; */
+        height: 400px;
+        margin-left: 0px;
+        margin-top: 70px;
+    }
+    .innerbox{
+        background:url(../../assets/entiregetintouch.png    ) ;
+        width:320px;
+        height: 545px;
+        position: absolute;
+        margin:-30px  0 0 12px;
+        border-radius: 5px;
+        filter: brightness(50%);
+    }
+    .get{
+        margin-top: 100px;
+        margin-left: -270px;
+    }
+    .get h1{
+        position: absolute;
+        z-index: 5;
+        margin:-600px 0 0 295px;
+        width:250px;
+        color: #D72590;
+    }
+    .getp{
+        position: absolute;
+        z-index: 5;
+        margin:-540px 0 0 295px;
+        width:280px;
+        color:white;
+        line-height: normal;
+        font-size: 13px;
+    }
+    
+    .chat h4{
+        position: absolute;
+        z-index: 5;
+        margin:-457px 0 0 315px;
+        width:250px;
+        font-size: 16px;
+        font-weight: 700;
+        color: white;
+    }
+    .mail{
+        position: absolute;
+        color: rgb(255, 255, 255);
+        margin:-459px 0 0 140px;
+        font-size:22px;
+    
+    }
+    .chat p{
+        position: absolute;
+        margin:-425px 0 0 295px;
+        width:250px;
+        color: white;
+        font-size: 13px;
+    }
+    .chat span{
+        position: absolute;
+        z-index: 5;
+        margin:-405px 0 0 295px;
+        width:250px;
+        color: white;
+        font-size: 13px;
+    }
+    .office h4{
+        position: absolute;
+        z-index: 5;
+        margin:-363px 0 0 315px;
+        width:250px;
+        font-size: 16px;
+        font-weight: 700;
+        color: white;
+    }
+    .locat{
+        position: absolute;
+        color: rgb(255, 255, 255);
+        margin:-362px 0 0 140px;
+        font-size:19px;
+    }
+    .office p{
+        position: absolute;
+        z-index: 5;
+        margin:-330px 0 0 295px;
+        width:250px;
+        color: white;
+        font-size: 13px;
+    }
+    .office span{
+        position: absolute;
+        z-index: 5;
+        margin:-307px 0 0 295px;
+        width:250px;
+        color: white;
+        line-height: normal;
+        font-size: 13px;
+    }
+    .phone h4{
+        position: absolute;
+        z-index: 5;
+        margin:-250px 0 0 318px;
+        width:250px;
+        font-size: 16px;
+        font-weight: 700;
+        color: white;
+    }
+    .cell{
+        position: absolute;
+        color: rgb(255, 255, 255);
+        margin:-250px 0 0 140px;
+        font-size:19px;
+    }
+    .phone p{
+        position: absolute;
+        z-index: 5;
+        margin:-220px 0 0 295px;
+        width:250px;
+        color: white;
+        font-size: 13px;
+    }
+    .phone h6{
+        position: absolute;
+        z-index: 5;
+        margin:-192px 0 0 295px;
+        width:120px;
+        color: white;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .ficon{
+        display: flex;
+        width:250px;
+        font-size: 28px;
+        position: absolute;
+        margin: -156px 0 0 280px;
+    }
+    .twit{
+        color:rgb(122, 168, 255);
+    }
+    .insta{
+        color: #ff31ad;
+    }
+    .linked{
+        color:rgb(55, 55, 236);
+    }
+    .fb{
+        color: rgba(36, 36, 253, 0.776);
+    }
+    .threads{
+        color:rgba(215, 128, 255, 0.829);
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .leftalpha{
+        margin:525px 0 0 30px;
+        position: absolute;
+        width:600px;
+    }
+    .leftalpha h2{
+        width:300px;
+        margin-left: -20px;
+    }
+    .leftalpha p{
+        font-size: 13px;
+        margin-left: -20px;
+    }
+    .leftalpha input{
+        margin-top: 20px;
+        height: 50px;
+        border: none;
+        background: #ffe3ffdd;
+        width:290px;
+        margin-left: -15px;
+    }
+    .leftalpha input::placeholder{
+        padding-left: 20px;
+        color: black;
+        
+    }
+    .leftalpha textarea{
+        margin: 30px  0 0 -20px;
+        z-index: 2;
+        color: black;
+        outline: none;
+        height:100px;
+        
+    }
+    .leftalpha textarea::placeholder{
+        padding:10px 0 0 20px;
+        color:black;
+    }
+    .leftalpha .sumi{
+        border:1px solid none;
+        text-decoration: none;
+        padding: 10px 20px;
+        font-size: 16px;
+        font-weight: 700;
+        color:white;
+        background: #8e175fd9;
+        margin-left: -20px;
+     
+    }
+    .leftalpha a{
+        width: 110px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+@media (min-width:481px) and (max-width:768px){
+
+
+
+
+.wholecontactus{
+    mix-blend-mode:multiply;
+}
+
+.headofc h1{
+color:#690247;
+font-weight: 900;
+margin:50px 0 0 0 ;
+text-align: center;
+padding-bottom: 60px;
+}
+.outerbox{
+    background: #f6f4f4;
+    width:39rem;
+    height: 85rem;
+    margin-left: 80px;
+}
+.innerbox{
+    background:url(../../assets/entiregetintouch.png    ) ;
+    width:34.5rem;
+    height: 625px;
+    position: absolute;
+    margin:30px  0 0 115px;
+    border-radius: 5px;
+    filter: brightness(40%);
+    
+}
+.get{
+    margin-top: -41rem;
+}
+.get h1{
+    position: absolute;
+    z-index: 5;
+    margin:-660px 0 0 145px;
+    width:250px;
+    color: #D72590;
+    font-size: 33px;
+}
+.getp{
+    position: absolute;
+    z-index: 5;
+    margin:-610px 0 0 145px;
+    width:450px;
+    color:white;
+    line-height: normal;
+    
+}
+
+.chat h4{
+    position: absolute;
+    z-index: 5;
+    margin:-520px 0 0 175px;
+    width:250px;
+    font-size: 19px;
+    font-weight: 600;
+    color: white;
+}
+.mail{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    margin:-518px 0 0 -230px;
+    font-size:22px;
+}
+.chat p{
+    position: absolute;
+    z-index: 5;
+    margin:-485px 0 0 145px;
+    width:250px;
+    color: white;
+}
+.chat span{
+    position: absolute;
+    z-index: 5;
+    margin:-462px 0 0 145px;
+    width:250px;
+    color: white;
+}
+.office h4{
+    position: absolute;
+    z-index: 5;
+    margin:-393px 0 0 175px;
+    width:250px;
+    font-size: 19px;
+    font-weight: 600;
+    color: white;
+}
+.locat{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    margin:-391px 0 0 -230px;
+    font-size:19px;
+}
+.office p{
+    position: absolute;
+    z-index: 5;
+    margin:-360px 0 0 145px;
+    width:250px;
+    color: white;
+}
+.office span{
+    position: absolute;
+    z-index: 5;
+    margin:-335px 0 0 145px;
+    width:250px;
+    color: white;
+    line-height: normal;
+}
+.phone h4{
+    position: absolute;
+    z-index: 5;
+    margin:-250px 0 0 178px;
+    width:250px;
+    font-size: 19px;
+    font-weight: 700;
+    color: white;
+}
+.cell{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    margin:-245px 0 0 -225px;
+    font-size:19px;
+}
+.phone p{
+    position: absolute;
+    z-index: 5;
+    margin:-215px 0 0 145px;
+    width:250px;
+    color: white;
+}
+.phone h6{
+    position: absolute;
+    z-index: 5;
+    margin:-182px 0 0 145px;
+    width:150px;
+    color: white;
+    font-weight: normal;
+}
+.ficon{
+    display: flex;
+    width:250px;
+    
+    position: absolute;
+    margin: -136px 0 0 145px;
+}
+.twit{
+    color:rgb(122, 168, 255) !important;
+    font-size: 42px !important;
+}
+.insta{
+    color: #ff31ad !important;
+    font-size: 32px;
+}
+.linked{
+    color:rgb(55, 55, 236) !important;
+    font-size: 32px;
+}
+.fb{
+    color: rgba(36, 36, 253, 0.776) !important;
+    font-size: 32px;
+}
+.threads{
+    color:rgba(215, 128, 255, 0.829) !important;
+    font-size: 32px;
+}
+.leftalpha{
+    margin:720px 0 0 105px;
+    position: absolute;
+    width:600px;
+}
+.leftalpha input{
+    margin-top: 30px;
+    height: 50px;
+    border: none;
+    width:550px;
+    background: #ffe3ffdd;
+}
+.leftalpha input::placeholder{
+    padding-left: 20px;
+    color: black;
+    
+}
+.leftalpha textarea{
+    margin: 40px  0 0 0;
+    z-index: 2;
+    color: black;
+    outline: none;
+    width:550px;
+    
+}
+.leftalpha textarea::placeholder{
+    padding:20px 0 0 20px;
+    color:black;
+}
+.leftalpha .sumi{
+    border:1px solid none;
+    text-decoration: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: 700;
+    color:white;
+    background: #8e175fd9;
+ 
+}
+.leftalpha a{
+    width: 110px;
+}
+
+}
+
+
